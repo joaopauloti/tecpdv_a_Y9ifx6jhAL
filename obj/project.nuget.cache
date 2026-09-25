@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+26u3F5+ah8=",
+  "dgSpecHash": "gNs0Oi3gu5U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\repos\\SistemaTecPDV\\SistemaTecPDV.csproj",
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\tecpdv_a_Y9ifx6jhAL\\SistemaTecPDV.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.data.sqlite\\10.0.11\\microsoft.data.sqlite.10.0.11.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.11\\microsoft.data.sqlite.core.10.0.11.nupkg.sha512",

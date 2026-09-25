@@ -7,7 +7,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Security.Cryptography;
 using SistemaTecPDV.Dados;
-
+ 
 namespace SistemaTecPDV
 {
     public partial class FrmLogin : Form

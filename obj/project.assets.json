@@ -301,11 +301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\SistemaTecPDV\\SistemaTecPDV.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\tecpdv_a_Y9ifx6jhAL\\SistemaTecPDV.csproj",
       "projectName": "SistemaTecPDV",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\SistemaTecPDV\\SistemaTecPDV.csproj",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\tecpdv_a_Y9ifx6jhAL\\SistemaTecPDV.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\SistemaTecPDV\\obj\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\tecpdv_a_Y9ifx6jhAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
